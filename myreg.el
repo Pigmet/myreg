@@ -52,12 +52,4 @@
   (interactive)
   (setq myreg--repository nil))
 
-
-
-
-
-
-
-
-
-
+(provide 'myreg)
